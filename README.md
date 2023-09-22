@@ -1,6 +1,6 @@
 # Face Recognition Attendance System
 
-This is a simple attendance system using face recognition implemented in Python. The system allows users to mark attendance by capturing their face through a webcam.
+This is an attendance system using face recognition implemented in Python. The system allows users to mark attendance by capturing their face through a webcam.
 
 ## Installation
 
